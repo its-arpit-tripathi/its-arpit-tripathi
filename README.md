@@ -138,8 +138,6 @@ A simple task-management application for practicing frontend development and cor
 
 </div>
 
-**If the snake is not visible:** configure the GitHub Actions workflow from [Platane/snk](https://github.com/Platane/snk) to generate `github-contribution-grid-snake-dark.svg` into an `output` branch. The stats and animation images are provided by external services and can occasionally be unavailable.
-
 ---
 
 ## 〢 Current Goals
