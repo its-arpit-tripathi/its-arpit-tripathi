@@ -20,7 +20,7 @@
 
 ---
 
-## 𝙷𝚎𝚕𝚕𝚘, 𝚏𝚎𝚕𝚕𝚘𝚠 𝚌𝚘𝚍𝚎𝚛𝚜! 👋
+## 👋 About Me
 
 <img align="right" alt="Coding animation" width="180" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
 
@@ -38,7 +38,7 @@
 
 ---
 
-## 【 Ｓｋｉｌｌｓ 】
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -51,30 +51,25 @@
 
 </div>
 
-
 <details open>
-<summary><b>🤖 AI / ML & Other Technologies</b></summary>
-
+<summary><strong>🤖 AI / ML & Other Technologies</strong></summary>
 <br/>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow.js"/>
-<img src="https://img.shields.io/badge/face--api.js-7C3AED?style=flat-square" alt="face-api.js"/>
-<img src="https://img.shields.io/badge/LLM%20Applications-2563EB?style=flat-square" alt="LLM Applications"/>
-<img src="https://img.shields.io/badge/RAG-0D9488?style=flat-square" alt="RAG"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render"/>
+<img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow.js"/>
+<img src="https://img.shields.io/badge/face--api.js-7C3AED?style=for-the-badge" alt="face-api.js"/>
+<img src="https://img.shields.io/badge/LLM%20Applications-2563EB?style=for-the-badge" alt="LLM applications"/>
+<img src="https://img.shields.io/badge/RAG-0D9488?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
 
 </div>
-
 </details>
-
-
 
 ---
 
-## 【 Ｆｅａｔｕｒｅｄ Ｐｒｏｊｅｃｔｓ 】
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -104,7 +99,7 @@
 
 ---
 
-## 【 ＧｉｔＨｕｂ Ｓｔａｔｓ 】
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -127,7 +122,7 @@
 
 ---
 
-## 【 Ｃｏｎｔｒｉｂｕｔｉｏｎ Ｓｎａｋｅ 🐍 】
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -135,11 +130,10 @@
 
 </div>
 
-If the snake is missing, configure a GitHub Actions workflow using [Platane/snk](https://github.com/Platane/snk) to generate `github-snake-dark.svg` and publish it to the `output` branch. Make sure the output filename matches the image URL above.
 
 ---
 
-## 【 Ｃｕｒｒｅｎｔ Ｇｏａｌｓ 】
+## 🎯 Current Goals
 
 <div align="center">
 
@@ -158,7 +152,7 @@ If the snake is missing, configure a GitHub Actions workflow using [Platane/snk]
 
 ---
 
-## 【 Ｃｏｎｎｅｃｔ Ｗｉｔｈ Ｍｅ 】
+## 🤝 Connect With Me
 
 <div align="center">
 
