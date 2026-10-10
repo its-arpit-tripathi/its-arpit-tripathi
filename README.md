@@ -124,7 +124,8 @@ A simple task-management application for practicing frontend development and cor
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=its-arpit-tripathi&bg_color=0D1117&color=CBD5E1&line=38BDF8&point=A78BFA&area=true&hide_border=true" alt="GitHub activity graph" width="100%"/>
+
+[![Arpit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=its-arpit-tripathi&theme=github-compact)](https://github.com/its-arpit-tripathi)
 
 </div>
 
