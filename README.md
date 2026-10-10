@@ -1,16 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:071A2F,45:075985,75:4338CA,100:7C3AED&text=HEY%20THERE%2C%20I'M%20YOUR_NAME&fontColor=FFFFFF&fontSize=34&fontAlignY=38&desc=Software%20Engineer%20in%20the%20Making%20%7C%20Full-Stack%20%7C%20AI&descAlignY=60&descSize=15" alt="Profile header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:071A2F,45:075985,75:4338CA,100:7C3AED&text=HEY%20THERE%2C%20I'M%20ARPIT TRIPATHI&fontColor=FFFFFF&fontSize=34&fontAlignY=38&desc=Software%20Engineer%20in%20the%20Making%20%7C%20Full-Stack%20%7C%20AI&descAlignY=60&descSize=15" alt="Profile header"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+things+that+solve+real+problems;C%2B%2B+%7C+DSA+%7C+Problem+Solving;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Exploring+AI%2C+LLMs+and+RAG;Always+learning.+Always+building." alt="Animated typing text"/>
 </a>
 
 <p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/its-arpit-tripathi"><img src="https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
   <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=its-arpit-tripathi&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 </div>
@@ -130,20 +130,20 @@ A growing collection of solutions, patterns, and notes for data structures and a
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=A78BFA&text_color=E2E8F0" alt="GitHub statistics"/>
+<a href="https://github.com/its-arpit-tripathi">
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=its-arpit-tripathi&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=A78BFA&text_color=E2E8F0" alt="GitHub statistics"/>
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" alt="Top languages"/>
+<a href="https://github.com/its-arpit-tripathi">
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-arpit-tripathi&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" alt="Top languages"/>
 </a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8" alt="Contribution streak" width="80%"/>
+<img src="https://streak-stats.demolab.com?user=its-arpit-tripathi&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8" alt="Contribution streak" width="80%"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=CBD5E1&line=38BDF8&point=A78BFA&area=true&hide_border=true" alt="Contribution activity graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=its-arpit-tripathi&bg_color=0D1117&color=CBD5E1&line=38BDF8&point=A78BFA&area=true&hide_border=true" alt="Contribution activity graph" width="100%"/>
 
 </div>
 
@@ -154,16 +154,16 @@ A growing collection of solutions, patterns, and notes for data structures and a
 <div align="center">
 
 <!-- Enable the GitHub Actions workflow below to generate this SVG in the output branch. -->
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/its-arpit-tripathi/its-arpit-tripathi/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%"/>
 
 </div>
 
 ### Enable the snake animation
 
-1. Create a repository named `YOUR_GITHUB_USERNAME` if you haven't already.
+1. Create a repository named `its-arpit-tripathi` if you haven't already.
 2. Open the [`Platane/snk` guide](https://github.com/Platane/snk) and follow its GitHub Actions setup.
 3. Configure the workflow to generate `github-contribution-grid-snake-dark.svg` into the `output` branch.
-4. Replace `YOUR_GITHUB_USERNAME` in the image URL above with your real username.
+4. Replace `its-arpit-tripathi` in the image URL above with your real username.
 
 ---
 
@@ -183,7 +183,7 @@ A growing collection of solutions, patterns, and notes for data structures and a
 
 **Open to learning, collaboration, and software engineering opportunities.**
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<a href="https://github.com/its-arpit-tripathi"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
 <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
