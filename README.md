@@ -125,9 +125,19 @@ A simple task-management application for practicing frontend development and cor
 <br/>
 
 
-[![Arpit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=its-arpit-tripathi&theme=github-compact)](https://github.com/its-arpit-tripathi)
+
+<div align="center">
+
+### 📈 My GitHub Contributions
+
+<img
+  src="https://ghchart.rshah.org/38BDF8/its-arpit-tripathi"
+  alt="Arpit's GitHub contribution chart"
+  width="100%"
+/>
 
 </div>
+
 
 ---
 
