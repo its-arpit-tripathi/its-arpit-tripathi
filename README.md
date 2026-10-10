@@ -130,8 +130,6 @@
   />
 </div>
 
-If the snake is missing, configure a GitHub Actions workflow using [Platane/snk](https://github.com/Platane/snk) to generate `github-snake-dark.svg` and publish it to the `output` branch. Make sure the output filename matches the image URL above.
-
 ---
 
 ## 【 Ｃｕｒｒｅｎｔ Ｇｏａｌｓ 】
