@@ -121,10 +121,13 @@
 
 ## 【 Ｃｏｎｔｒｉｂｕｔｉｏｎ Ｓｎａｋｅ 🐍 】
 
+
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/its-arpit-tripathi/its-arpit-tripathi/output/github-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%"/>
-
+  <img
+    src="https://raw.githubusercontent.com/its-arpit-tripathi/its-arpit-tripathi/output/github-snake-dark.svg"
+    alt="Arpit's GitHub contribution snake"
+    width="100%"
+  />
 </div>
 
 If the snake is missing, configure a GitHub Actions workflow using [Platane/snk](https://github.com/Platane/snk) to generate `github-snake-dark.svg` and publish it to the `output` branch. Make sure the output filename matches the image URL above.
