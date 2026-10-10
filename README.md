@@ -134,7 +134,7 @@ A simple task-management application for practicing frontend development and cor
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/its-arpit-tripathi/its-arpit-tripathi/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/its-arpit-tripathi/its-arpit-tripathi/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" width="100%" />
 
 </div>
 
