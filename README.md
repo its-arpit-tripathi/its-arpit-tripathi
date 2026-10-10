@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:071A2F,45:075985,75:4338CA,100:7C3AED&text=HEY%20THERE%2C%20I'M%20ARPIT TRIPATHI&fontColor=FFFFFF&fontSize=34&fontAlignY=38&desc=Software%20Engineer%20in%20the%20Making%20%7C%20Full-Stack%20%7C%20AI&descAlignY=60&descSize=15" alt="Profile header"/>
 
@@ -194,3 +194,4 @@ A growing collection of solutions, patterns, and notes for data structures and a
 **Thanks for stopping by. Keep building!** ✨
 
 </div>
+](https://github.com/its-arpit-tripathi)
