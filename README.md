@@ -51,21 +51,26 @@
 
 </div>
 
-<details>
+
+<details open>
 <summary><b>🤖 AI / ML & Other Technologies</b></summary>
+
 <br/>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow.js"/>
-<img src="https://img.shields.io/badge/face--api.js-7C3AED?style=for-the-badge" alt="face-api.js"/>
-<img src="https://img.shields.io/badge/LLM%20Applications-2563EB?style=for-the-badge" alt="LLM applications"/>
-<img src="https://img.shields.io/badge/RAG-0D9488?style=for-the-badge" alt="RAG"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
+<img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow.js"/>
+<img src="https://img.shields.io/badge/face--api.js-7C3AED?style=flat-square" alt="face-api.js"/>
+<img src="https://img.shields.io/badge/LLM%20Applications-2563EB?style=flat-square" alt="LLM Applications"/>
+<img src="https://img.shields.io/badge/RAG-0D9488?style=flat-square" alt="RAG"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render"/>
 
 </div>
+
 </details>
+
+
 
 ---
 
