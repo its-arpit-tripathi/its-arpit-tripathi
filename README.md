@@ -52,16 +52,19 @@
 </div>
 
 <details>
-<summary><b>🤖 AI / ML and other technologies</b></summary>
+<summary><b>🤖 AI / ML & Other Technologies</b></summary>
 <br/>
 
-![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![face-api.js](https://img.shields.io/badge/face--api.js-7C3AED?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLM%20Applications-2563EB?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-0D9488?style=flat-square)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+<div align="center">
 
+<img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow.js"/>
+<img src="https://img.shields.io/badge/face--api.js-7C3AED?style=for-the-badge" alt="face-api.js"/>
+<img src="https://img.shields.io/badge/LLM%20Applications-2563EB?style=for-the-badge" alt="LLM applications"/>
+<img src="https://img.shields.io/badge/RAG-0D9488?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
+
+</div>
 </details>
 
 ---
@@ -121,21 +124,29 @@
 
 ## 【 Ｃｏｎｔｒｉｂｕｔｉｏｎ Ｓｎａｋｅ 🐍 】
 
-
 <div align="center">
-  <img
-    src="https://raw.githubusercontent.com/its-arpit-tripathi/its-arpit-tripathi/output/github-snake-dark.svg"
-    alt="Arpit's GitHub contribution snake"
-    width="100%"
-  />
+
+<img src="https://raw.githubusercontent.com/its-arpit-tripathi/its-arpit-tripathi/output/github-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%"/>
+
 </div>
+
+If the snake is missing, configure a GitHub Actions workflow using [Platane/snk](https://github.com/Platane/snk) to generate `github-snake-dark.svg` and publish it to the `output` branch. Make sure the output filename matches the image URL above.
 
 ---
 
 ## 【 Ｃｕｒｒｅｎｔ Ｇｏａｌｓ 】
 
-- [ ] Solve DSA problems consistently in C++.
-- [ ] Strengthen computer science fundamentals and interview skills.
+<div align="center">
+
+| 🧠 **Problem Solving** | ⚙️ **Engineering** | 🤖 **AI Projects** |
+|:---:|:---:|:---:|
+| C++ & DSA practice | APIs, validation & testing | Build useful LLM / RAG apps |
+| Core CS fundamentals | Secure backend development | Clear demos & documentation |
+
+</div>
+
+- [ ] Practice DSA consistently and review patterns.
+- [ ] Strengthen computer science fundamentals and interview communication.
 - [ ] Improve backend API design, validation, security, and testing.
 - [ ] Build and document useful AI / RAG applications.
 - [ ] Keep project READMEs clear, reproducible, and recruiter-friendly.
@@ -146,16 +157,18 @@
 
 <div align="center">
 
-<a href="https://github.com/its-arpit-tripathi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<p>Have an idea, feedback, or a project to build together? Let's connect.</p>
+
+<a href="https://github.com/its-arpit-tripathi"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <br/>
 
-<a href="https://github.com/its-arpit-tripathi">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Feel+free+to+explore+my+repositories;Keep+learning.+Keep+building." alt="Closing animation"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Explore+my+repositories;Keep+learning.+Keep+building." alt="Closing animation"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:7C3AED,50:075985,100:01102D" width="100%" alt="Footer banner"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:7C3AED,50:075985,100:01102D" width="100%" alt="Footer banner"/>
 
 </div>
 
